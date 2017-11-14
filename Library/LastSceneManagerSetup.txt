@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/scenes/offline_test_scene.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/scenes/kenpachi_online_scene.unity
+  isLoaded: 1
+  isActive: 1
