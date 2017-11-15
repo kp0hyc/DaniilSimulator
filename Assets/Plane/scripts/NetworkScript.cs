@@ -6,6 +6,7 @@ using UnityEngine.Networking;
 
 public class NetworkScript : NetworkBehaviour 
 {
+	//git test change
 	/*class SyncListNickname : SyncList<string>
 	{
 		protected override void SerializeItem (NetworkWriter writer, string item)
